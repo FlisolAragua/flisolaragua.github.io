@@ -5,26 +5,27 @@ published: true
 ---
 
 
+
 ![Flisol-2016-banner-facebook-fanpage2.png]({{site.baseurl}}/_posts/Flisol-2016-banner-facebook-fanpage2.png)
 
 
-##FAQ
+## FAQ
 
 
-###¿Quién lo organiza?
+### ¿Quién lo organiza?
 
 La Comunidad de Software Libre en Latinoamérica, conformada por personas y grupos de diversa índole, con el apoyo de otras entidades, principalmente educativas, y algunos patrocinadores de los eventos en cada localidad.
 
-###¿A quién está dirigido?
+### ¿A quién está dirigido?
 
 El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y aun personas que no poseen mucho conocimiento informático.
 ¿Cuánto cuesta?
 
-**La asistencia al evento es totalmente libre y gratuita
+**La asistencia al evento es totalmente libre y gratuita**
 
-###¿Qué beneficios obtengo?
+### ¿Qué beneficios obtengo?
 
-**Tendrás la oportunidad de instalar software libre en tu computadora, apreciar qué es una real y segura alternativa a otros modelos de desarrollo y distribución de software.
+**Tendrás la oportunidad de instalar software libre en tu computadora, apreciar qué es una real y segura alternativa a otros modelos de desarrollo y distribución de software.**
 
 Informarte sobre la filosofía, cultura y organización alrededor del mismo.
 Conocer las experiencias, desarrollos e investigaciones de grupos y entidades en torno al Software Libre, tanto a nivel local como nacional e internacional.
