@@ -4,6 +4,7 @@ title: Bienvenidos; Preguntas Frecuentes (FAQs)
 published: true
 ---
 
+
 ![Flisol-2016-banner-facebook-fanpage2.png]({{site.baseurl}}/_posts/Flisol-2016-banner-facebook-fanpage2.png)
 
 
@@ -47,14 +48,3 @@ Hay varias opciones para colaborar, contacte a su coordinador local y muéstrele
 [Conoce más sobre el Flisol A nivel Nacional](http://www.flisol.org.ve/ "Flisol Venezuela"): http://www.flisol.org.ve/
 
 [Conoce más sobre el Flisol a nivel Internacional](http://flisol.info/ "Flisol Internacional"):http://flisol.info/
-
-
-
-
-
-
-
-
-
-
-
