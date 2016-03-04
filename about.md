@@ -14,4 +14,4 @@ Este es un evento organizado por usuarios, progamadores, educadores, activistas 
 
 ### Contact me
 
-[flisolaragua@.gmail.com](mailto:flisolaragua@gmail.com.com)
+[flisolaragua@.gmail.com](mailto:flisolaragua@gmail.com)
