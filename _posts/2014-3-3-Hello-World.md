@@ -1,10 +1,60 @@
 ---
 layout: post
-title: You're up and running!
+title: Bienvenidos; Preguntas Frecuentes (FAQs)
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![Flisol-2016-banner-facebook-fanpage2.png]({{site.baseurl}}/_posts/Flisol-2016-banner-facebook-fanpage2.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+##FAQ
+
+
+###¿Quién lo organiza?
+
+La Comunidad de Software Libre en Latinoamérica, conformada por personas y grupos de diversa índole, con el apoyo de otras entidades, principalmente educativas, y algunos patrocinadores de los eventos en cada localidad.
+
+###¿A quién está dirigido?
+
+El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y aun personas que no poseen mucho conocimiento informático.
+¿Cuánto cuesta?
+
+**La asistencia al evento es totalmente libre y gratuita
+
+###¿Qué beneficios obtengo?
+
+**Tendrás la oportunidad de instalar software libre en tu computadora, apreciar qué es una real y segura alternativa a otros modelos de desarrollo y distribución de software.
+
+Informarte sobre la filosofía, cultura y organización alrededor del mismo.
+Conocer las experiencias, desarrollos e investigaciones de grupos y entidades en torno al Software Libre, tanto a nivel local como nacional e internacional.
+
+Tal vez encuentres una alternativa/solución en software libre para ti, tu empresa, colegio, universidad e, incluso, para tu gobierno.
+
+Podrás aclarar tus dudas acerca de los temas relacionados y, quizás encuentres en el software libre, una alternativa de investigación, empleo y desarrollo tecnológico.
+Quiero ayudar, ¿qué puedo hacer?
+
+Puedes revisar en Ciudades, allí podrás encontrar todas las ciudades sedes donde se realiza el evento, o puedes seguir los enlaces por países que aparecen en el menú a tu izquierda. Podrás encontrar información sobre el lugar de realización del evento y los contactos respectivos de las personas, grupos y entidades a cargo.
+Si por otra parte, en tu país y/o ciudad no hay programado evento todavía, eres un entusiasta y estás interesado en organizar y/o promover, por favor consulta esta información.
+
+Hay varias opciones para colaborar, contacte a su coordinador local y muéstrele su interés y ofrézcale su apoyo en alguno de estos puntos:
+
+* Difusión
+* Patrocinio
+* Como Instalador
+* Como Logística
+* Construcción Comunitaria del Wiki
+
+[Conoce más sobre el Flisol A nivel Nacional](http://www.flisol.org.ve/ "Flisol Venezuela"): http://www.flisol.org.ve/
+
+[Conoce más sobre el Flisol a nivel Internacional](http://flisol.info/ "Flisol Internacional"):http://flisol.info/
+
+
+
+
+
+
+
+
+
+
+
