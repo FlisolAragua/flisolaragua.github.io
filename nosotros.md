@@ -8,10 +8,10 @@ published: true
 
 Sobre Nosotros
 
-### More Information
+### Más información
 
 Este es un evento organizado por usuarios, progamadores, educadores, activistas y miembros de la comunidad del software libre.
 
-### Contact me
+### Contáctanos
 
 [flisolaragua@.gmail.com](mailto:flisolaragua@gmail.com)
