@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 
@@ -8,5 +8,3 @@ layout: post
 ## Descarga nuestro material
 
 Puedes usarlo para hacer tu propia versión
-
-
