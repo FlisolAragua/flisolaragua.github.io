@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 Sobre Nosotros
 
 ### Más información
@@ -14,4 +15,4 @@ Este es un evento organizado por usuarios, progamadores, educadores, activistas 
 
 ### Contáctanos
 
-[flisolaragua@.gmail.com](mailto:flisolaragua@gmail.com)
+[flisolaragua(at)gmail.com](mailto:flisolaragua@gmail.com)
